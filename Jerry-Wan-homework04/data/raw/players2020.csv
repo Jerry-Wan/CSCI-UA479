@@ -1,0 +1,498 @@
+PLAYER_LAST_NAME,PLAYER_FIRST_NAME,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,POSITION,HEIGHT,WEIGHT,COLLEGE,COUNTRY,DRAFT_YEAR,DRAFT_ROUND,DRAFT_NUMBER,ROSTER_STATUS,PTS,REB,AST,FROM_YEAR,TO_YEAR
+Achiuwa,Precious,Miami,Heat,MIA,F,"6'8""",225 lbs,Memphis,Nigeria,2020.0,1.0,20.0,1.0,5.8,3.9,0.5,2020,2020
+Adams,Jaylen,Portland,Trail Blazers,POR,G,"6'0""",225 lbs,St. Bonaventure,USA,,,,,0.3,0.4,0.3,2018,2020
+Adams,Steven,New Orleans,Pelicans,NOP,C,"6'11""",265 lbs,Pittsburgh,New Zealand,2013.0,1.0,12.0,1.0,8.2,9.2,2.0,2013,2020
+Adebayo,Bam,Miami,Heat,MIA,C-F,"6'9""",255 lbs,Kentucky,USA,2017.0,1.0,14.0,1.0,19.2,9.5,5.4,2017,2020
+Aldridge,LaMarcus,San Antonio,Spurs,SAS,C-F,"6'11""",250 lbs,Texas,USA,2006.0,1.0,2.0,1.0,13.7,4.5,1.7,2006,2020
+Alexander,Ty-Shon,Phoenix,Suns,PHX,G,"6'3""",195 lbs,Creighton,USA,,,,1.0,0.0,0.3,0.3,2020,2020
+Alexander-Walker,Nickeil,New Orleans,Pelicans,NOP,G,"6'6""",205 lbs,Virginia Tech,Canada,2019.0,1.0,17.0,1.0,8.5,2.6,2.0,2019,2020
+Allen,Grayson,Memphis,Grizzlies,MEM,G,"6'4""",198 lbs,Duke,USA,2018.0,1.0,21.0,1.0,9.3,2.8,2.2,2018,2020
+Allen,Jarrett,Cleveland,Cavaliers,CLE,C,"6'11""",243 lbs,Texas,USA,2017.0,1.0,22.0,1.0,13.2,9.8,1.7,2017,2020
+Aminu,Al-Farouq,Orlando,Magic,ORL,F,"6'8""",220 lbs,Wake Forest,USA,2010.0,1.0,8.0,1.0,4.6,4.4,1.5,2010,2020
+Anderson,Kyle,Memphis,Grizzlies,MEM,F-G,"6'9""",230 lbs,UCLA,USA,2014.0,1.0,30.0,1.0,13.0,6.0,3.4,2014,2020
+Antetokounmpo,Giannis,Milwaukee,Bucks,MIL,F,"6'11""",242 lbs,Filathlitikos,Greece,2013.0,1.0,15.0,1.0,29.0,11.6,6.1,2013,2020
+Antetokounmpo,Kostas,Los Angeles,Lakers,LAL,F,"6'10""",200 lbs,Dayton,Greece,2018.0,2.0,60.0,1.0,1.0,2.7,0.0,2018,2020
+Antetokounmpo,Thanasis,Milwaukee,Bucks,MIL,F,"6'6""",219 lbs,Panathinaikos,Greece,2014.0,2.0,51.0,1.0,2.3,2.0,0.6,2015,2020
+Anthony,Carmelo,Portland,Trail Blazers,POR,F,"6'7""",238 lbs,Syracuse,USA,2003.0,1.0,3.0,1.0,14.1,3.3,1.6,2003,2020
+Anthony,Cole,Orlando,Magic,ORL,G,"6'2""",185 lbs,North Carolina,USA,2020.0,1.0,15.0,1.0,11.0,4.4,3.8,2020,2020
+Anunoby,OG,Toronto,Raptors,TOR,F,"6'7""",232 lbs,Indiana,United Kingdom,2017.0,1.0,23.0,1.0,13.8,5.7,1.7,2017,2020
+Arcidiacono,Ryan,Chicago,Bulls,CHI,G,"6'3""",195 lbs,Villanova,USA,,,,1.0,3.2,1.8,1.2,2017,2020
+Augustin,D.J.,Milwaukee,Bucks,MIL,G,"5'11""",183 lbs,Texas,USA,2008.0,1.0,9.0,1.0,6.2,1.4,3.0,2008,2020
+Avdija,Deni,Washington,Wizards,WAS,F,"6'9""",210 lbs,Maccabi Tel Aviv,Israel,2020.0,1.0,9.0,1.0,6.2,4.7,1.3,2020,2020
+Ayton,Deandre,Phoenix,Suns,PHX,C,"6'11""",250 lbs,Arizona,Bahamas,2018.0,1.0,1.0,1.0,14.4,11.2,1.6,2018,2020
+Azubuike,Udoka,Utah,Jazz,UTA,C-F,"6'10""",280 lbs,Kansas,Nigeria,2020.0,1.0,27.0,1.0,1.0,1.1,0.0,2020,2020
+Bacon,Dwayne,Orlando,Magic,ORL,G-F,"6'6""",221 lbs,Florida State,USA,2017.0,2.0,40.0,1.0,10.5,2.8,1.1,2017,2020
+Bagley III,Marvin,Sacramento,Kings,SAC,F,"6'11""",235 lbs,Duke,USA,2018.0,1.0,2.0,1.0,13.9,7.6,1.0,2018,2020
+Ball,LaMelo,Charlotte,Hornets,CHA,G,"6'6""",180 lbs,Illawarra,USA,2020.0,1.0,3.0,1.0,15.8,6.1,6.4,2020,2020
+Ball,Lonzo,New Orleans,Pelicans,NOP,G,"6'6""",190 lbs,UCLA,USA,2017.0,1.0,2.0,1.0,14.1,4.1,5.2,2017,2020
+Bamba,Mo,Orlando,Magic,ORL,C,"7'0""",231 lbs,Texas-Austin,USA,2018.0,1.0,6.0,1.0,4.9,4.1,0.3,2018,2020
+Bane,Desmond,Memphis,Grizzlies,MEM,G,"6'5""",215 lbs,TCU,USA,2020.0,1.0,30.0,1.0,9.9,2.9,1.3,2020,2020
+Barnes,Harrison,Sacramento,Kings,SAC,F,"6'8""",225 lbs,North Carolina,USA,2012.0,1.0,7.0,1.0,16.7,6.2,3.5,2012,2020
+Barrett,RJ,New York,Knicks,NYK,F-G,"6'6""",214 lbs,Duke,Canada,2019.0,1.0,3.0,1.0,17.1,5.9,2.9,2019,2020
+Barton,Will,Denver,Nuggets,DEN,G,"6'6""",181 lbs,Memphis,USA,2012.0,2.0,40.0,1.0,12.2,4.0,3.1,2012,2020
+Bates-Diop,Keita,San Antonio,Spurs,SAS,F,"6'8""",229 lbs,Ohio State,USA,2018.0,2.0,48.0,1.0,2.3,1.3,0.5,2018,2020
+Batum,Nicolas,LA,Clippers,LAC,G-F,"6'8""",230 lbs,Le Mans,France,2008.0,1.0,25.0,1.0,8.9,4.7,2.4,2008,2020
+Baynes,Aron,Toronto,Raptors,TOR,C-F,"6'10""",260 lbs,Washington State,Australia,,,,1.0,6.3,5.6,1.0,2012,2020
+Bazemore,Kent,Golden State,Warriors,GSW,G-F,"6'4""",195 lbs,Old Dominion,USA,,,,1.0,6.5,2.9,1.6,2012,2020
+Bazley,Darius,Oklahoma City,Thunder,OKC,F-G,"6'8""",208 lbs,Princeton HS (OH),USA,2019.0,1.0,23.0,1.0,11.9,7.5,1.5,2019,2020
+Beal,Bradley,Washington,Wizards,WAS,G,"6'3""",207 lbs,Florida,USA,2012.0,1.0,3.0,1.0,32.1,5.3,4.6,2012,2020
+Beasley,Malik,Minnesota,Timberwolves,MIN,G,"6'4""",187 lbs,Florida State,USA,2016.0,1.0,19.0,1.0,20.5,4.6,2.5,2016,2020
+Bell,Jordan,Cleveland,Cavaliers,CLE,F,"6'8""",216 lbs,Oregon,USA,2017.0,2.0,38.0,,3.3,5.3,1.7,2017,2020
+Bembry,DeAndre',Toronto,Raptors,TOR,G-F,"6'5""",210 lbs,St. Joseph's (PA),USA,2016.0,1.0,21.0,1.0,4.8,2.2,2.0,2016,2020
+Bertans,Davis,Washington,Wizards,WAS,F,"6'10""",225 lbs,Baskonia,Latvia,2011.0,2.0,42.0,1.0,11.3,3.0,0.9,2016,2020
+Beverley,Patrick,LA,Clippers,LAC,G,"6'1""",180 lbs,Arkansas,USA,2009.0,2.0,42.0,1.0,8.3,3.7,2.1,2012,2020
+Bey,Saddiq,Detroit,Pistons,DET,F,"6'7""",215 lbs,Villanova,USA,2020.0,1.0,19.0,1.0,10.1,3.9,1.1,2020,2020
+Bey,Tyler,Dallas,Mavericks,DAL,F,"6'7""",215 lbs,Colorado,USA,2020.0,2.0,36.0,1.0,1.2,0.8,0.0,2020,2020
+Birch,Khem,Orlando,Magic,ORL,C,"6'9""",233 lbs,UNLV,Canada,,,,1.0,5.6,5.5,1.0,2017,2020
+Bitadze,Goga,Indiana,Pacers,IND,C-F,"6'11""",250 lbs,Mega Basket,Georgia,2019.0,1.0,18.0,1.0,3.6,1.9,0.3,2019,2020
+Biyombo,Bismack,Charlotte,Hornets,CHA,C,"6'8""",255 lbs,Baloncesto Fuenlabrada,DRC,2011.0,1.0,7.0,1.0,5.4,5.5,1.4,2011,2020
+Bjelica,Nemanja,Sacramento,Kings,SAC,F,"6'10""",234 lbs,Fenerbahce,Serbia,2010.0,2.0,35.0,1.0,8.0,4.0,2.1,2015,2020
+Bledsoe,Eric,New Orleans,Pelicans,NOP,G,"6'1""",214 lbs,Kentucky,USA,2010.0,1.0,18.0,1.0,11.9,3.4,3.8,2010,2020
+Blevins,Keljin,Portland,Trail Blazers,POR,G,"6'4""",200 lbs,Montana State,USA,2019.0,,,1.0,0.4,0.2,0.4,2020,2020
+Bogdanovic,Bogdan,Atlanta,Hawks,ATL,G,"6'6""",220 lbs,Fenerbahce,Serbia,2014.0,1.0,27.0,1.0,8.4,3.5,2.2,2017,2020
+Bogdanovic,Bojan,Utah,Jazz,UTA,F,"6'7""",226 lbs,Fenerbahce,Croatia,2011.0,2.0,31.0,1.0,15.7,3.9,2.0,2014,2020
+Bol,Bol,Denver,Nuggets,DEN,C-F,"7'2""",220 lbs,Oregon,Sudan,2019.0,2.0,44.0,1.0,1.9,0.8,0.3,2019,2020
+Bolden,Marques,,,,C,"6'10""",249 lbs,Duke,USA,2019.0,,,,1.2,1.0,0.0,2019,2020
+Bone,Jordan,Detroit,Pistons,DET,G,"6'3""",180 lbs,Tennessee,USA,2019.0,2.0,57.0,,4.0,1.7,1.3,2019,2020
+Bonga,Isaac,Washington,Wizards,WAS,G,"6'8""",180 lbs,Skyliners Frankfurt,Germany,2018.0,2.0,39.0,1.0,2.1,2.0,0.5,2018,2020
+Booker,Devin,Phoenix,Suns,PHX,G,"6'5""",206 lbs,Kentucky,USA,2015.0,1.0,13.0,1.0,25.1,3.7,4.6,2015,2020
+Boucher,Chris,Toronto,Raptors,TOR,F-C,"6'9""",200 lbs,Oregon,Saint Lucia,,,,1.0,14.1,6.6,1.0,2017,2020
+Bowen II,Brian,Indiana,Pacers,IND,F-G,"6'6""",190 lbs,Sydney Kings,USA,,,,1.0,3.0,1.0,0.0,2019,2020
+Bradley,Avery,Miami,Heat,MIA,G,"6'3""",180 lbs,Texas,USA,2010.0,1.0,19.0,1.0,8.5,1.8,1.4,2010,2020
+Bradley,Tony,Philadelphia,76ers,PHI,C-F,"6'10""",248 lbs,North Carolina,USA,2017.0,1.0,28.0,1.0,4.8,4.1,0.5,2017,2020
+Brantley,Jarrell,Utah,Jazz,UTA,F,"6'5""",250 lbs,College of Charleston,USA,2019.0,2.0,50.0,1.0,1.1,0.7,0.0,2019,2020
+Brazdeikis,Ignas,New York,Knicks,NYK,F,"6'6""",221 lbs,Michigan,Canada,2019.0,2.0,47.0,1.0,0.5,0.5,0.3,2019,2020
+Bridges,Mikal,Phoenix,Suns,PHX,F,"6'6""",209 lbs,Villanova,USA,2018.0,1.0,10.0,1.0,13.8,4.9,2.2,2018,2020
+Bridges,Miles,Charlotte,Hornets,CHA,F,"6'6""",225 lbs,Michigan State,USA,2018.0,1.0,12.0,1.0,9.7,5.8,2.0,2018,2020
+Brogdon,Malcolm,Indiana,Pacers,IND,G,"6'5""",229 lbs,Virginia,USA,2016.0,2.0,36.0,1.0,21.5,4.7,6.2,2016,2020
+Brooks,Dillon,Memphis,Grizzlies,MEM,G-F,"6'7""",225 lbs,Oregon,Canada,2017.0,2.0,45.0,1.0,15.8,3.1,2.6,2017,2020
+Brown,Bruce,Brooklyn,Nets,BKN,G-F,"6'4""",202 lbs,Miami,USA,2018.0,2.0,42.0,1.0,8.3,4.5,1.4,2018,2020
+Brown,Jaylen,Boston,Celtics,BOS,G-F,"6'6""",223 lbs,California,USA,2016.0,1.0,3.0,1.0,24.4,5.6,4.0,2016,2020
+Brown,Moses,Oklahoma City,Thunder,OKC,C,"7'2""",245 lbs,UCLA,USA,,,,1.0,4.2,4.0,0.3,2019,2020
+Brown,Sterling,Houston,Rockets,HOU,G-F,"6'5""",219 lbs,Southern Methodist,USA,2017.0,2.0,46.0,1.0,7.6,4.3,1.7,2017,2020
+Brown Jr.,Troy,Washington,Wizards,WAS,G-F,"6'6""",215 lbs,Oregon,USA,2018.0,1.0,15.0,1.0,4.1,3.0,0.9,2018,2020
+Brunson,Jalen,Dallas,Mavericks,DAL,G,"6'1""",190 lbs,Villanova,USA,2018.0,2.0,33.0,1.0,12.9,3.5,3.4,2018,2020
+Bryant,Thomas,Washington,Wizards,WAS,C-F,"6'10""",248 lbs,Indiana,USA,2017.0,2.0,42.0,1.0,14.3,6.1,1.5,2017,2020
+Bullock,Reggie,New York,Knicks,NYK,G-F,"6'6""",205 lbs,North Carolina,USA,2013.0,1.0,25.0,1.0,8.7,3.3,1.3,2013,2020
+Burke,Trey,Dallas,Mavericks,DAL,G,"6'0""",185 lbs,Michigan,USA,2013.0,1.0,9.0,1.0,7.3,0.9,1.6,2013,2020
+Burks,Alec,New York,Knicks,NYK,G,"6'6""",214 lbs,Colorado,USA,2011.0,1.0,12.0,1.0,11.5,4.3,2.2,2011,2020
+Butler,Jimmy,Miami,Heat,MIA,F,"6'7""",230 lbs,Marquette,USA,2011.0,1.0,30.0,1.0,21.1,7.4,8.0,2011,2020
+Caboclo,Bruno,Houston,Rockets,HOU,F,"6'9""",218 lbs, ,Brazil,2014.0,1.0,20.0,,2.8,2.3,0.2,2014,2020
+Cacok,Devontae,Los Angeles,Lakers,LAL,F,"6'7""",240 lbs,North Carolina-Wilmington,USA,,,,1.0,2.0,1.3,0.0,2019,2020
+Caldwell-Pope,Kentavious,Los Angeles,Lakers,LAL,G,"6'5""",204 lbs,Georgia,USA,2013.0,1.0,8.0,1.0,8.6,2.4,1.4,2013,2020
+Campazzo,Facundo,Denver,Nuggets,DEN,G,"5'10""",195 lbs,Murcia,Argentina,,,,1.0,5.4,1.1,2.3,2020,2020
+Cancar,Vlatko,Denver,Nuggets,DEN,F,"6'8""",236 lbs,San Pablo Burgos,Slovenia,2017.0,2.0,49.0,1.0,1.4,1.3,0.3,2019,2020
+Capela,Clint,Atlanta,Hawks,ATL,C,"6'10""",240 lbs,Elan Chalon,Switzerland,2014.0,1.0,25.0,1.0,14.8,14.3,0.9,2014,2020
+Carey Jr.,Vernon,Charlotte,Hornets,CHA,F-C,"6'9""",270 lbs,Duke,USA,2020.0,2.0,32.0,1.0,0.8,1.3,0.3,2020,2020
+Carter,Jevon,Phoenix,Suns,PHX,G,"6'1""",200 lbs,West Virginia,USA,2018.0,2.0,32.0,1.0,2.7,1.2,1.2,2018,2020
+Carter Jr.,Wendell,Chicago,Bulls,CHI,C-F,"6'10""",270 lbs,Duke,USA,2018.0,1.0,7.0,1.0,11.8,7.9,2.2,2018,2020
+Carter-Williams,Michael,Orlando,Magic,ORL,G,"6'5""",190 lbs,Syracuse,USA,2013.0,1.0,11.0,1.0,9.2,4.7,4.2,2013,2020
+Caruso,Alex,Los Angeles,Lakers,LAL,G,"6'4""",186 lbs,Texas A&M,USA,,,,1.0,5.7,2.7,2.4,2017,2020
+Cauley-Stein,Willie,Dallas,Mavericks,DAL,C,"7'0""",240 lbs,Kentucky,USA,2015.0,1.0,6.0,1.0,5.5,4.4,0.8,2015,2020
+Chiozza,Chris,Brooklyn,Nets,BKN,G,"5'11""",175 lbs,Florida,USA,,,,1.0,3.5,1.1,2.4,2018,2020
+Chriss,Marquese,Golden State,Warriors,GSW,F,"6'9""",240 lbs,Washington,USA,2016.0,1.0,8.0,1.0,6.5,6.5,1.0,2016,2020
+Clark,Gary,Orlando,Magic,ORL,F,"6'6""",225 lbs,Cincinnati,USA,,,,1.0,3.6,3.3,0.9,2018,2020
+Clarke,Brandon,Memphis,Grizzlies,MEM,F-G,"6'8""",215 lbs,Gonzaga,Canada,2019.0,1.0,21.0,1.0,12.3,5.8,1.6,2019,2020
+Clarkson,Jordan,Utah,Jazz,UTA,G,"6'4""",194 lbs,Missouri,USA,2014.0,2.0,46.0,1.0,17.9,3.9,2.2,2014,2020
+Claxton,Nicolas,Brooklyn,Nets,BKN,F-C,"6'11""",215 lbs,Georgia,USA,2019.0,2.0,31.0,1.0,8.9,3.4,1.0,2019,2020
+Coffey,Amir,LA,Clippers,LAC,G-F,"6'7""",210 lbs,Minnesota,USA,,,,1.0,2.8,0.8,0.4,2019,2020
+Collins,John,Atlanta,Hawks,ATL,F-C,"6'9""",235 lbs,Wake Forest,USA,2017.0,1.0,19.0,1.0,17.8,7.6,1.4,2017,2020
+Conley,Mike,Utah,Jazz,UTA,G,"6'1""",175 lbs,Ohio State,USA,2007.0,1.0,4.0,1.0,16.2,3.5,5.6,2007,2020
+Connaughton,Pat,Milwaukee,Bucks,MIL,G,"6'5""",209 lbs,Notre Dame,USA,2015.0,2.0,41.0,1.0,6.6,4.2,1.4,2015,2020
+Cook,Quinn,Cleveland,Cavaliers,CLE,G,"6'1""",180 lbs,Duke,USA,,,,1.0,2.7,0.5,0.4,2016,2020
+Cook,Tyler,Denver,Nuggets,DEN,F,"6'8""",255 lbs,Iowa,USA,,,,,0.5,0.5,0.5,2019,2020
+Cousins,DeMarcus,Golden State,Warriors,GSW,C,"6'11""",270 lbs,Kentucky,USA,2010.0,1.0,5.0,,9.6,7.6,2.4,2010,2020
+Covington,Robert,Portland,Trail Blazers,POR,F,"6'7""",209 lbs,Tennessee State,USA,,,,1.0,8.1,6.6,1.7,2013,2020
+Craig,Torrey,Milwaukee,Bucks,MIL,F,"6'7""",221 lbs,South Carolina Upstate,USA,,,,1.0,2.5,2.4,0.9,2017,2020
+Crowder,Jae,Phoenix,Suns,PHX,F,"6'6""",235 lbs,Marquette,USA,2012.0,2.0,34.0,1.0,10.0,5.0,2.1,2012,2020
+Culver,Jarrett,Minnesota,Timberwolves,MIN,G-F,"6'6""",195 lbs,Texas Tech,USA,2019.0,1.0,6.0,1.0,7.2,4.7,0.8,2019,2020
+Curry,Seth,Philadelphia,76ers,PHI,G,"6'2""",185 lbs,Duke,USA,,,,1.0,12.5,2.1,2.9,2013,2020
+Curry,Stephen,Golden State,Warriors,GSW,G,"6'3""",185 lbs,Davidson,USA,2009.0,1.0,7.0,1.0,29.3,5.4,6.2,2009,2020
+Darling,Nate,Charlotte,Hornets,CHA,G,"6'6""",200 lbs,Delaware,Canada,,,,1.0,0.0,0.0,0.0,2020,2020
+Davis,Anthony,Los Angeles,Lakers,LAL,F-C,"6'10""",253 lbs,Kentucky,USA,2012.0,1.0,1.0,1.0,22.5,8.4,3.0,2012,2020
+Davis,Ed,Minnesota,Timberwolves,MIN,C-F,"6'9""",218 lbs,North Carolina,USA,2010.0,1.0,13.0,1.0,2.3,5.1,1.0,2010,2020
+Davis,Terence,Toronto,Raptors,TOR,G,"6'4""",201 lbs,Mississippi,USA,,,,1.0,7.1,1.9,1.1,2019,2020
+DeRozan,DeMar,San Antonio,Spurs,SAS,G-F,"6'6""",220 lbs,Southern California,USA,2009.0,1.0,9.0,1.0,20.3,4.7,7.3,2009,2020
+DiVincenzo,Donte,Milwaukee,Bucks,MIL,G,"6'4""",203 lbs,Villanova,USA,2018.0,1.0,17.0,1.0,10.3,5.0,2.9,2018,2020
+Diakite,Mamadi,Milwaukee,Bucks,MIL,F,"6'9""",228 lbs,Virginia,Guinea,,,,1.0,2.0,2.0,2.0,2020,2020
+Diallo,Hamidou,Oklahoma City,Thunder,OKC,G,"6'5""",202 lbs,Kentucky,USA,2018.0,2.0,45.0,1.0,11.9,5.2,2.4,2018,2020
+Dieng,Gorgui,Memphis,Grizzlies,MEM,C,"6'10""",252 lbs,Louisville,Senegal,2013.0,1.0,21.0,1.0,7.9,4.5,1.3,2013,2020
+Dinwiddie,Spencer,Brooklyn,Nets,BKN,G,"6'5""",215 lbs,Colorado,USA,2014.0,2.0,38.0,1.0,6.7,4.3,3.0,2014,2020
+Doncic,Luka,Dallas,Mavericks,DAL,F-G,"6'7""",230 lbs,Real Madrid,Slovenia,2018.0,1.0,3.0,1.0,28.2,8.4,9.1,2018,2020
+Dort,Luguentz,Oklahoma City,Thunder,OKC,G,"6'3""",215 lbs,Arizona State,Canada,,,,1.0,12.4,3.6,1.6,2019,2020
+Dotson,Damyean,Cleveland,Cavaliers,CLE,G,"6'5""",210 lbs,Houston,USA,2017.0,2.0,44.0,1.0,6.7,1.9,2.2,2017,2020
+Dotson,Devon,Chicago,Bulls,CHI,G,"6'2""",185 lbs,Kansas,USA,,,,1.0,4.0,1.0,0.0,2020,2020
+Doumbouya,Sekou,Detroit,Pistons,DET,F,"6'8""",230 lbs,Limoges,France,2019.0,1.0,15.0,1.0,3.9,2.2,0.6,2019,2020
+Dozier,PJ,Denver,Nuggets,DEN,G-F,"6'6""",205 lbs,South Carolina,USA,,,,1.0,7.3,3.9,1.6,2017,2020
+Dragic,Goran,Miami,Heat,MIA,G,"6'3""",190 lbs,Union Olimpija,Slovenia,2008.0,2.0,45.0,1.0,15.0,3.3,4.8,2008,2020
+Drummond,Andre,Cleveland,Cavaliers,CLE,C,"6'10""",279 lbs,Connecticut,USA,2012.0,1.0,9.0,1.0,17.5,13.5,2.6,2012,2020
+Dudley,Jared,Los Angeles,Lakers,LAL,F,"6'6""",237 lbs,Boston College,USA,2007.0,1.0,22.0,1.0,0.5,1.7,0.5,2007,2020
+Durant,Kevin,Brooklyn,Nets,BKN,F,"6'10""",240 lbs,Texas,USA,2007.0,1.0,2.0,1.0,29.0,7.3,5.3,2007,2020
+Edwards,Anthony,Minnesota,Timberwolves,MIN,G,"6'4""",225 lbs,Georgia,USA,2020.0,1.0,1.0,1.0,15.4,4.1,2.5,2020,2020
+Edwards,Carsen,Boston,Celtics,BOS,G,"5'11""",200 lbs,Purdue,USA,2019.0,2.0,33.0,1.0,5.4,1.0,0.4,2019,2020
+Elleby,CJ,Portland,Trail Blazers,POR,F-G,"6'6""",200 lbs,Washington State,USA,2020.0,2.0,46.0,1.0,3.0,1.1,0.2,2020,2020
+Ellenson,Henry,Toronto,Raptors,TOR,F-C,"6'10""",240 lbs,Marquette,USA,2016.0,1.0,18.0,1.0,9.0,9.0,3.0,2016,2020
+Ellington,Wayne,Detroit,Pistons,DET,G,"6'4""",207 lbs,North Carolina,USA,2009.0,1.0,28.0,1.0,10.6,1.8,1.4,2009,2020
+Embiid,Joel,Philadelphia,76ers,PHI,C-F,"7'0""",280 lbs,Kansas,Cameroon,2014.0,1.0,3.0,1.0,29.9,11.5,3.3,2014,2020
+Ennis III,James,Orlando,Magic,ORL,F,"6'6""",215 lbs,California State-Long Beach,USA,2013.0,2.0,50.0,1.0,7.3,3.9,1.3,2014,2020
+Eubanks,Drew,San Antonio,Spurs,SAS,F-C,"6'9""",245 lbs,Oregon State,USA,,,,1.0,3.6,3.1,0.6,2018,2020
+Exum,Dante,Houston,Rockets,HOU,G,"6'5""",214 lbs,Australian Institute of Sport,Australia,2014.0,1.0,5.0,1.0,3.8,2.8,2.2,2014,2020
+Fall,Tacko,Boston,Celtics,BOS,C,"7'5""",311 lbs,Central Florida,Senegal,,,,1.0,2.6,2.6,0.1,2019,2020
+Favors,Derrick,Utah,Jazz,UTA,F,"6'9""",265 lbs,Georgia Tech,USA,2010.0,1.0,3.0,1.0,6.1,5.4,0.8,2010,2020
+Felicio,Cristiano,Chicago,Bulls,CHI,F-C,"6'11""",270 lbs,Flamengo,Brazil,,,,1.0,1.8,2.0,0.8,2015,2020
+Ferguson,Terrance,Philadelphia,76ers,PHI,G,"6'6""",190 lbs,Adelaide,USA,2017.0,1.0,21.0,1.0,0.2,0.1,0.2,2017,2020
+Fernando,Bruno,Atlanta,Hawks,ATL,F-C,"6'9""",240 lbs,Maryland,Angola,2019.0,2.0,34.0,1.0,1.6,3.2,0.5,2019,2020
+Ferrell,Yogi,Sacramento,Kings,SAC,G,"6'0""",178 lbs,Indiana,USA,,,,,9.5,3.5,2.5,2016,2020
+Finney-Smith,Dorian,Dallas,Mavericks,DAL,F,"6'7""",220 lbs,Florida,USA,,,,1.0,8.2,5.4,1.4,2016,2020
+Flynn,Malachi,Toronto,Raptors,TOR,G,"6'1""",175 lbs,San Diego State,USA,2020.0,1.0,29.0,1.0,2.2,0.7,1.1,2020,2020
+Forbes,Bryn,Milwaukee,Bucks,MIL,G,"6'2""",205 lbs,Michigan State,USA,,,,1.0,9.6,1.3,0.6,2016,2020
+Forrest,Trent,Utah,Jazz,UTA,G,"6'4""",210 lbs,Florida State,USA,,,,1.0,0.3,0.3,0.6,2020,2020
+Fournier,Evan,Orlando,Magic,ORL,G-F,"6'7""",205 lbs,Poitiers Basket 86,France,2012.0,1.0,20.0,1.0,18.5,3.1,3.8,2012,2020
+Fox,De'Aaron,Sacramento,Kings,SAC,G,"6'3""",185 lbs,Kentucky,USA,2017.0,1.0,5.0,1.0,23.5,3.4,7.6,2017,2020
+Frazier,Tim,Milwaukee,Bucks,MIL,G,"6'1""",170 lbs,Penn State,USA,,,,,1.3,1.3,2.3,2014,2020
+Fultz,Markelle,Orlando,Magic,ORL,G,"6'3""",209 lbs,Washington,USA,2017.0,1.0,1.0,1.0,12.9,3.1,5.4,2017,2020
+Gabriel,Wenyen,New Orleans,Pelicans,NOP,F,"6'9""",205 lbs,Kentucky,South Sudan,,,,1.0,0.2,1.2,0.2,2018,2020
+Gafford,Daniel,Chicago,Bulls,CHI,F-C,"6'10""",234 lbs,Arkansas,USA,2019.0,2.0,38.0,1.0,4.8,3.1,0.6,2019,2020
+Gallinari,Danilo,Atlanta,Hawks,ATL,F,"6'10""",233 lbs,Olimpia Milano,Italy,2008.0,1.0,6.0,1.0,12.1,3.6,1.5,2008,2020
+Galloway,Langston,Phoenix,Suns,PHX,G,"6'1""",200 lbs,St. Joseph's (PA),USA,,,,1.0,4.5,1.0,0.6,2014,2020
+Garland,Darius,Cleveland,Cavaliers,CLE,G,"6'1""",192 lbs,Vanderbilt,USA,2019.0,1.0,5.0,1.0,16.1,2.2,5.9,2019,2020
+Gasol,Marc,Los Angeles,Lakers,LAL,C,"6'11""",255 lbs,FC Barcelona,Spain,2007.0,2.0,48.0,1.0,4.8,4.1,2.0,2008,2020
+Gay,Rudy,San Antonio,Spurs,SAS,F-G,"6'8""",250 lbs,Connecticut,USA,2006.0,1.0,8.0,1.0,11.5,5.2,1.5,2006,2020
+George,Paul,LA,Clippers,LAC,F,"6'8""",220 lbs,Fresno State,USA,2010.0,1.0,10.0,1.0,23.5,6.1,5.4,2010,2020
+Gibson,Taj,New York,Knicks,NYK,F,"6'9""",232 lbs,Southern California,USA,2009.0,1.0,26.0,1.0,3.9,4.6,0.5,2009,2020
+Giles III,Harry,Portland,Trail Blazers,POR,F-C,"6'11""",240 lbs,Duke,USA,2017.0,1.0,20.0,1.0,3.1,4.9,0.9,2017,2020
+Gilgeous-Alexander,Shai,Oklahoma City,Thunder,OKC,G-F,"6'6""",180 lbs,Kentucky,Canada,2018.0,1.0,11.0,1.0,23.5,5.0,6.2,2018,2020
+Gill,Anthony,Washington,Wizards,WAS,F,"6'7""",230 lbs,Virginia,USA,,,,1.0,0.8,1.6,0.3,2020,2020
+Gobert,Rudy,Utah,Jazz,UTA,C,"7'1""",258 lbs,Cholet,France,2013.0,1.0,27.0,1.0,14.2,13.1,1.3,2013,2020
+Goodwin,Brandon,Atlanta,Hawks,ATL,G,"6'0""",180 lbs,Florida Gulf Coast,USA,,,,1.0,4.1,1.1,1.7,2018,2020
+Gordon,Aaron,Orlando,Magic,ORL,F,"6'8""",235 lbs,Arizona,USA,2014.0,1.0,4.0,1.0,13.6,7.0,4.0,2014,2020
+Gordon,Eric,Houston,Rockets,HOU,G,"6'3""",215 lbs,Indiana,USA,2008.0,1.0,7.0,1.0,17.8,2.1,2.6,2008,2020
+Graham,Devonte',Charlotte,Hornets,CHA,G,"6'1""",195 lbs,Kansas,USA,2018.0,2.0,34.0,1.0,13.6,2.9,5.6,2018,2020
+Grant,Jerami,Detroit,Pistons,DET,F,"6'8""",210 lbs,Syracuse,USA,2014.0,2.0,39.0,1.0,23.6,5.3,2.9,2014,2020
+Green,Danny,Philadelphia,76ers,PHI,G,"6'6""",215 lbs,North Carolina,USA,2009.0,2.0,46.0,1.0,8.6,3.7,1.8,2009,2020
+Green,Draymond,Golden State,Warriors,GSW,F,"6'6""",230 lbs,Michigan State,USA,2012.0,2.0,35.0,1.0,5.9,6.0,8.4,2012,2020
+Green,JaMychal,Denver,Nuggets,DEN,F-C,"6'8""",227 lbs,Alabama,USA,,,,1.0,9.0,6.0,0.9,2014,2020
+Green,Javonte,Boston,Celtics,BOS,G-F,"6'4""",205 lbs,Radford,USA,,,,1.0,4.8,2.3,0.5,2019,2020
+Green,Jeff,Brooklyn,Nets,BKN,F,"6'8""",235 lbs,Georgetown,USA,2007.0,1.0,5.0,1.0,9.4,3.6,1.5,2007,2020
+Green,Josh,Dallas,Mavericks,DAL,G,"6'5""",200 lbs,Arizona,Australia,2020.0,1.0,18.0,1.0,2.2,2.1,0.5,2020,2020
+Griffin,Blake,Brooklyn,Nets,BKN,F,"6'9""",250 lbs,Oklahoma,USA,2009.0,1.0,1.0,1.0,12.3,5.2,3.9,2009,2020
+Guy,Kyle,Sacramento,Kings,SAC,G,"6'1""",167 lbs,Virginia,USA,2019.0,2.0,55.0,1.0,2.6,0.9,0.9,2019,2020
+Hachimura,Rui,Washington,Wizards,WAS,F,"6'8""",230 lbs,Gonzaga,Japan,2019.0,1.0,9.0,1.0,12.9,5.5,1.6,2019,2020
+Hagans,Ashton,,,,G-F,"6'3""",190 lbs,Kentucky,USA,,,,,0.0,0.0,0.0,2020,2020
+Haliburton,Tyrese,Sacramento,Kings,SAC,G,"6'5""",185 lbs,Iowa State,USA,2020.0,1.0,12.0,1.0,12.8,3.5,5.2,2020,2020
+Hall,Josh,Oklahoma City,Thunder,OKC,F,"6'9""",190 lbs,Moravian Prep (NC),USA,,,,1.0,1.7,1.3,1.0,2020,2020
+Hampton,R.J.,Denver,Nuggets,DEN,G,"6'4""",175 lbs,New Zealand Breakers,USA,2020.0,1.0,24.0,1.0,2.5,2.0,0.5,2020,2020
+Hardaway Jr.,Tim,Dallas,Mavericks,DAL,G-F,"6'5""",205 lbs,Michigan,USA,2013.0,1.0,24.0,1.0,16.2,3.2,1.7,2013,2020
+Harden,James,Brooklyn,Nets,BKN,G,"6'5""",220 lbs,Arizona State,USA,2009.0,1.0,3.0,1.0,25.2,7.9,11.0,2009,2020
+Harkless,Maurice,Miami,Heat,MIA,F-G,"6'7""",220 lbs,St. John's,USA,2012.0,1.0,15.0,1.0,1.4,1.2,0.6,2012,2020
+Harper,Jared,New York,Knicks,NYK,G,"5'10""",175 lbs,Auburn,USA,,,,1.0,1.0,0.0,0.0,2019,2020
+Harrell,Montrezl,Los Angeles,Lakers,LAL,F-C,"6'7""",240 lbs,Louisville,USA,2015.0,2.0,32.0,1.0,13.9,6.4,1.1,2015,2020
+Harris,Gary,Denver,Nuggets,DEN,G,"6'4""",210 lbs,Michigan State,USA,2014.0,1.0,19.0,1.0,9.7,2.5,1.7,2014,2020
+Harris,Jalen,Toronto,Raptors,TOR,G,"6'5""",195 lbs,Nevada,USA,2020.0,2.0,59.0,1.0,1.0,0.7,0.3,2020,2020
+Harris,Joe,Brooklyn,Nets,BKN,G-F,"6'6""",220 lbs,Virginia,USA,2014.0,2.0,33.0,1.0,14.6,3.5,1.7,2014,2020
+Harris,Tobias,Philadelphia,76ers,PHI,F,"6'8""",226 lbs,Tennessee,USA,2011.0,1.0,19.0,1.0,20.2,7.5,3.4,2011,2020
+Harrison,Shaquille,Chicago,Bulls,CHI,G,"6'7""",190 lbs,Tulsa,USA,,,,,1.0,0.5,0.5,2017,2020
+Hart,Josh,New Orleans,Pelicans,NOP,G,"6'5""",215 lbs,Villanova,USA,2017.0,1.0,30.0,1.0,9.0,7.4,2.0,2017,2020
+Hartenstein,Isaiah,Denver,Nuggets,DEN,C-F,"7'0""",250 lbs,Zalgiris,Germany,2017.0,2.0,43.0,1.0,3.7,2.8,0.5,2018,2020
+Hayes,Jaxson,New Orleans,Pelicans,NOP,C-F,"6'11""",220 lbs,Texas,USA,2019.0,1.0,8.0,1.0,5.0,3.6,0.4,2019,2020
+Hayes,Killian,Detroit,Pistons,DET,G,"6'5""",195 lbs,Ratiopharm Ulm,France,2020.0,1.0,7.0,1.0,4.6,1.1,3.6,2020,2020
+Hayward,Gordon,Charlotte,Hornets,CHA,F,"6'7""",225 lbs,Butler,USA,2010.0,1.0,9.0,1.0,21.0,5.4,3.9,2010,2020
+Hernangomez,Juancho,Minnesota,Timberwolves,MIN,F,"6'9""",214 lbs,Estudiantes,Spain,2016.0,1.0,15.0,1.0,6.1,4.4,0.6,2016,2020
+Hernangomez,Willy,New Orleans,Pelicans,NOP,C-F,"6'11""",250 lbs,Cajasol Sevilla,Spain,2015.0,2.0,35.0,1.0,6.9,6.6,1.3,2016,2020
+Herro,Tyler,Miami,Heat,MIA,G,"6'5""",195 lbs,Kentucky,USA,2019.0,1.0,13.0,1.0,15.4,5.6,3.6,2019,2020
+Hield,Buddy,Sacramento,Kings,SAC,G,"6'4""",220 lbs,Oklahoma,Bahamas,2016.0,1.0,6.0,1.0,16.3,4.5,3.3,2016,2020
+Hill,George,Oklahoma City,Thunder,OKC,G,"6'4""",188 lbs,Indiana-Purdue Indianapolis,USA,2008.0,1.0,26.0,1.0,11.8,2.1,3.1,2008,2020
+Hill,Solomon,Atlanta,Hawks,ATL,F,"6'6""",226 lbs,Arizona,USA,2013.0,1.0,23.0,1.0,4.3,2.2,0.9,2013,2020
+Hinton,Nate,Dallas,Mavericks,DAL,G-F,"6'5""",210 lbs,Houston,USA,,,,1.0,1.3,0.0,0.0,2020,2020
+Holiday,Aaron,Indiana,Pacers,IND,G,"6'0""",185 lbs,UCLA,USA,2018.0,1.0,23.0,1.0,7.4,1.3,1.8,2018,2020
+Holiday,Jrue,Milwaukee,Bucks,MIL,G,"6'3""",205 lbs,UCLA,USA,2009.0,1.0,17.0,1.0,15.3,4.4,5.0,2009,2020
+Holiday,Justin,Indiana,Pacers,IND,F-G,"6'6""",180 lbs,Washington,USA,,,,1.0,11.4,3.9,1.7,2012,2020
+Holmes,Richaun,Sacramento,Kings,SAC,F,"6'10""",235 lbs,Bowling Green,USA,2015.0,2.0,37.0,1.0,13.4,8.5,1.7,2015,2020
+Hood,Rodney,Portland,Trail Blazers,POR,G-F,"6'8""",208 lbs,Duke,USA,2014.0,1.0,23.0,1.0,5.0,1.6,1.2,2014,2020
+Horford,Al,Oklahoma City,Thunder,OKC,C-F,"6'9""",240 lbs,Florida,Dominican Republic,2007.0,1.0,3.0,1.0,14.4,6.7,3.3,2007,2020
+Horton-Tucker,Talen,Los Angeles,Lakers,LAL,G,"6'4""",234 lbs,Iowa State,USA,2019.0,2.0,46.0,1.0,7.2,2.4,1.9,2019,2020
+House Jr.,Danuel,Houston,Rockets,HOU,F-G,"6'6""",220 lbs,Texas A&M,USA,,,,1.0,9.1,4.0,1.9,2016,2020
+Howard,Dwight,Philadelphia,76ers,PHI,C-F,"6'10""",265 lbs,SW Atlanta Christian Academy (GA),USA,2004.0,1.0,1.0,1.0,6.4,7.5,0.7,2004,2020
+Howard,Markus,Denver,Nuggets,DEN,G,"5'10""",175 lbs,Marquette,USA,,,,1.0,1.1,0.3,0.3,2020,2020
+Huerter,Kevin,Atlanta,Hawks,ATL,G-F,"6'7""",190 lbs,Maryland,USA,2018.0,1.0,19.0,1.0,12.2,3.6,3.7,2018,2020
+Hughes,Elijah,Utah,Jazz,UTA,G,"6'5""",215 lbs,Syracuse,USA,2020.0,2.0,39.0,1.0,2.7,0.7,0.5,2020,2020
+Hunter,De'Andre,Atlanta,Hawks,ATL,F-G,"6'8""",225 lbs,Virginia,USA,2019.0,1.0,4.0,1.0,17.2,5.4,2.2,2019,2020
+Hutchison,Chandler,Chicago,Bulls,CHI,F-G,"6'6""",210 lbs,Boise State,USA,2018.0,1.0,22.0,1.0,1.9,2.9,0.6,2018,2020
+Ibaka,Serge,LA,Clippers,LAC,F,"6'10""",235 lbs,Ricoh Manresa,Republic of the Congo,2008.0,1.0,24.0,1.0,11.2,6.8,1.8,2009,2020
+Iguodala,Andre,Miami,Heat,MIA,G-F,"6'6""",215 lbs,Arizona,USA,2004.0,1.0,9.0,1.0,4.7,3.7,2.2,2004,2020
+Ingles,Joe,Utah,Jazz,UTA,F-G,"6'8""",220 lbs,Maccabi Tel Aviv,Australia,,,,1.0,11.4,3.3,4.3,2014,2020
+Ingram,Brandon,New Orleans,Pelicans,NOP,F,"6'8""",190 lbs,Duke,USA,2016.0,1.0,2.0,1.0,23.7,5.1,4.7,2016,2020
+Irving,Kyrie,Brooklyn,Nets,BKN,G,"6'2""",195 lbs,Duke,Australia,2011.0,1.0,1.0,1.0,27.4,4.9,5.8,2011,2020
+Iwundu,Wes,Dallas,Mavericks,DAL,F,"6'6""",195 lbs,Kansas State,USA,2017.0,2.0,33.0,1.0,2.0,1.8,0.4,2017,2020
+Jackson,Frank,Detroit,Pistons,DET,G,"6'3""",205 lbs,Duke,USA,2017.0,2.0,31.0,1.0,1.8,0.9,1.1,2017,2020
+Jackson,Josh,Detroit,Pistons,DET,G-F,"6'8""",207 lbs,Kansas,USA,2017.0,1.0,4.0,1.0,13.2,4.4,1.9,2017,2020
+Jackson,Justin,Oklahoma City,Thunder,OKC,F,"6'8""",220 lbs,North Carolina,USA,2017.0,1.0,15.0,1.0,6.6,2.3,1.5,2017,2020
+Jackson,Reggie,LA,Clippers,LAC,G,"6'2""",208 lbs,Boston College,USA,2011.0,1.0,24.0,1.0,8.6,2.7,3.0,2011,2020
+James,Justin,Sacramento,Kings,SAC,G-F,"6'7""",190 lbs,Wyoming,USA,2019.0,2.0,40.0,1.0,1.6,0.6,0.4,2019,2020
+James,LeBron,Los Angeles,Lakers,LAL,F,"6'9""",250 lbs,St. Vincent-St. Mary HS (OH),USA,2003.0,1.0,1.0,1.0,25.6,7.9,7.8,2003,2020
+Jeffries,DaQuan,Sacramento,Kings,SAC,G-F,"6'5""",230 lbs,Tulsa,USA,,,,1.0,4.1,1.6,0.3,2019,2020
+Jerome,Ty,Oklahoma City,Thunder,OKC,G-F,"6'5""",195 lbs,Virginia,USA,2019.0,1.0,24.0,1.0,8.5,3.7,3.2,2019,2020
+Joe,Isaiah,Philadelphia,76ers,PHI,G,"6'4""",165 lbs,Arkansas,USA,2020.0,2.0,49.0,1.0,4.3,1.2,0.8,2020,2020
+Johnson,Cameron,Phoenix,Suns,PHX,F,"6'8""",210 lbs,North Carolina,USA,2019.0,1.0,11.0,1.0,10.4,3.4,1.4,2019,2020
+Johnson,James,Dallas,Mavericks,DAL,F,"6'7""",240 lbs,Wake Forest,USA,2009.0,1.0,16.0,1.0,5.7,3.0,1.7,2009,2020
+Johnson,Keldon,San Antonio,Spurs,SAS,F-G,"6'5""",220 lbs,Kentucky,USA,2019.0,1.0,29.0,1.0,13.9,6.5,2.0,2019,2020
+Johnson,Stanley,Toronto,Raptors,TOR,F-G,"6'6""",242 lbs,Arizona,USA,2015.0,1.0,8.0,1.0,3.1,2.2,1.3,2015,2020
+Johnson,Tyler,Brooklyn,Nets,BKN,G,"6'3""",186 lbs,Fresno State,USA,,,,1.0,4.7,1.7,1.0,2014,2020
+Jokic,Nikola,Denver,Nuggets,DEN,C,"6'11""",284 lbs,Mega Basket,Serbia,2014.0,2.0,41.0,1.0,27.1,11.1,8.6,2015,2020
+Jones,Damian,Los Angeles,Lakers,LAL,C,"6'11""",245 lbs,Vanderbilt,USA,2016.0,1.0,30.0,1.0,2.3,1.3,0.2,2016,2020
+Jones,Mason,Houston,Rockets,HOU,G,"6'4""",200 lbs,Arkansas,USA,,,,1.0,5.3,2.0,1.3,2020,2020
+Jones,Tre,San Antonio,Spurs,SAS,G,"6'1""",185 lbs,Duke,USA,2020.0,2.0,41.0,1.0,1.9,0.3,0.2,2020,2020
+Jones,Tyus,Memphis,Grizzlies,MEM,G,"6'0""",196 lbs,Duke,USA,2015.0,1.0,24.0,1.0,8.0,2.4,4.4,2015,2020
+Jones Jr.,Derrick,Portland,Trail Blazers,POR,F,"6'5""",210 lbs,UNLV,USA,,,,1.0,8.2,4.6,0.9,2016,2020
+Jordan,DeAndre,Brooklyn,Nets,BKN,C,"6'11""",265 lbs,Texas A&M,USA,2008.0,2.0,35.0,1.0,7.5,7.5,1.8,2008,2020
+Joseph,Cory,Sacramento,Kings,SAC,G,"6'3""",200 lbs,Texas,Canada,2011.0,1.0,29.0,1.0,6.6,2.3,2.4,2011,2020
+Kabengele,Mfiondu,LA,Clippers,LAC,F-C,"6'9""",250 lbs,Florida State,Canada,2019.0,1.0,27.0,1.0,1.1,0.6,0.2,2019,2020
+Kaminsky,Frank,Phoenix,Suns,PHX,F-C,"7'0""",240 lbs,Wisconsin,USA,2015.0,1.0,9.0,1.0,6.9,3.9,1.7,2015,2020
+Kanter,Enes,Portland,Trail Blazers,POR,C,"6'10""",250 lbs,Fenerbahce,Turkey,2011.0,1.0,3.0,1.0,12.2,11.8,1.2,2011,2020
+Kennard,Luke,LA,Clippers,LAC,G,"6'5""",206 lbs,Duke,USA,2017.0,1.0,12.0,1.0,7.5,2.6,1.7,2017,2020
+Kleber,Maxi,Dallas,Mavericks,DAL,F,"6'10""",240 lbs,Bayern Munich,Germany,,,,1.0,7.5,5.4,1.4,2017,2020
+Knight,Nathan,Atlanta,Hawks,ATL,F-C,"6'10""",253 lbs,William & Mary,USA,,,,1.0,2.7,1.5,0.1,2020,2020
+Knox II,Kevin,New York,Knicks,NYK,F,"6'7""",215 lbs,Kentucky,USA,2018.0,1.0,9.0,1.0,5.0,1.8,0.6,2018,2020
+Konchar,John,Memphis,Grizzlies,MEM,G,"6'5""",210 lbs,Indiana-Purdue Fort Wayne,USA,,,,1.0,4.2,3.6,1.2,2019,2020
+Korkmaz,Furkan,Philadelphia,76ers,PHI,G-F,"6'7""",202 lbs,Anadolu Efes,Turkey,2016.0,1.0,26.0,1.0,8.7,2.4,1.0,2017,2020
+Kornet,Luke,Chicago,Bulls,CHI,F-C,"7'2""",250 lbs,Vanderbilt,USA,,,,1.0,2.4,1.4,0.4,2017,2020
+Kurucs,Rodions,Houston,Rockets,HOU,F,"6'9""",228 lbs,FC Barcelona,Latvia,2018.0,2.0,40.0,1.0,1.0,0.9,0.4,2018,2020
+Kuzma,Kyle,Los Angeles,Lakers,LAL,F,"6'10""",221 lbs,Utah,USA,2017.0,1.0,27.0,1.0,11.8,6.8,1.1,2017,2020
+LaVine,Zach,Chicago,Bulls,CHI,G-F,"6'5""",200 lbs,UCLA,USA,2014.0,1.0,13.0,1.0,28.5,5.2,5.2,2014,2020
+Lamb,Anthony,Houston,Rockets,HOU,F,"6'6""",227 lbs,Vermont,USA,,,,1.0,3.0,4.5,0.5,2020,2020
+Lamb,Jeremy,Indiana,Pacers,IND,G-F,"6'5""",180 lbs,Connecticut,USA,2012.0,1.0,12.0,1.0,10.9,3.6,1.5,2012,2020
+Layman,Jake,Minnesota,Timberwolves,MIN,F,"6'8""",209 lbs,Maryland,USA,2016.0,2.0,47.0,1.0,6.5,1.7,0.7,2016,2020
+LeVert,Caris,Indiana,Pacers,IND,G,"6'6""",205 lbs,Michigan,USA,2016.0,1.0,20.0,1.0,18.1,4.5,5.7,2016,2020
+Lecque,Jalen,Indiana,Pacers,IND,G,"6'4""",185 lbs,Brewster Academy (NH),USA,,,,1.0,1.7,1.3,0.7,2019,2020
+Lee,Damion,Golden State,Warriors,GSW,G-F,"6'5""",210 lbs,Louisville,USA,,,,1.0,6.3,3.3,1.4,2017,2020
+Lee,Saben,Detroit,Pistons,DET,G,"6'2""",183 lbs,Vanderbilt,USA,2020.0,2.0,38.0,1.0,6.2,1.7,2.4,2020,2020
+Len,Alex,Washington,Wizards,WAS,C,"7'0""",250 lbs,Maryland,Ukraine,2013.0,1.0,5.0,1.0,5.4,3.1,0.9,2013,2020
+Leonard,Kawhi,LA,Clippers,LAC,F,"6'7""",225 lbs,San Diego State,USA,2011.0,1.0,15.0,1.0,26.7,6.4,4.8,2011,2020
+Leonard,Meyers,Miami,Heat,MIA,F-C,"7'0""",260 lbs,Illinois,USA,2012.0,1.0,11.0,1.0,3.3,2.3,0.7,2012,2020
+Lewis Jr.,Kira,New Orleans,Pelicans,NOP,G,"6'1""",170 lbs,Alabama,USA,2020.0,1.0,13.0,1.0,5.5,1.0,1.8,2020,2020
+Lillard,Damian,Portland,Trail Blazers,POR,G,"6'2""",195 lbs,Weber State,USA,2012.0,1.0,6.0,1.0,29.7,4.4,8.0,2012,2020
+Little,Nassir,Portland,Trail Blazers,POR,F-G,"6'5""",220 lbs,North Carolina,USA,2019.0,1.0,25.0,1.0,5.4,2.4,0.4,2019,2020
+Looney,Kevon,Golden State,Warriors,GSW,F,"6'9""",222 lbs,UCLA,USA,2015.0,1.0,30.0,1.0,3.9,4.2,1.6,2015,2020
+Lopez,Brook,Milwaukee,Bucks,MIL,C,"7'0""",282 lbs,Stanford,USA,2008.0,1.0,10.0,1.0,10.8,5.0,0.7,2008,2020
+Lopez,Robin,Washington,Wizards,WAS,C,"7'0""",281 lbs,Stanford,USA,2008.0,1.0,15.0,1.0,8.1,4.2,0.9,2008,2020
+Love,Kevin,Cleveland,Cavaliers,CLE,F-C,"6'8""",251 lbs,UCLA,USA,2008.0,1.0,5.0,1.0,7.7,4.3,1.7,2008,2020
+Lowry,Kyle,Toronto,Raptors,TOR,G,"6'0""",196 lbs,Villanova,USA,2006.0,1.0,24.0,1.0,18.0,5.5,7.2,2006,2020
+Luwawu-Cabarrot,Timothe,Brooklyn,Nets,BKN,G-F,"6'7""",220 lbs,Mega Basket,France,2016.0,1.0,24.0,1.0,7.2,2.4,1.3,2016,2020
+Lyles,Trey,San Antonio,Spurs,SAS,F,"6'9""",234 lbs,Kentucky,Canada,2015.0,1.0,12.0,1.0,5.3,4.0,0.6,2015,2020
+Maker,Thon,Detroit,Pistons,DET,F-C,"7'0""",221 lbs, ,South Sudan,2016.0,1.0,10.0,,3.8,2.3,0.5,2016,2020
+Maledon,Theo,Oklahoma City,Thunder,OKC,G,"6'4""",175 lbs,Asvel,France,2020.0,2.0,34.0,1.0,7.9,3.0,3.5,2020,2020
+Mane,Karim,Orlando,Magic,ORL,G,"6'3""",190 lbs,Vanier,Senegal,,,,1.0,1.2,1.7,0.2,2020,2020
+Mann,Terance,LA,Clippers,LAC,G-F,"6'5""",215 lbs,Florida State,USA,2019.0,2.0,48.0,1.0,4.8,3.2,1.3,2019,2020
+Mannion,Nico,Golden State,Warriors,GSW,G,"6'2""",190 lbs,Arizona,Italy,2020.0,2.0,48.0,1.0,3.5,1.9,2.5,2020,2020
+Marjanovic,Boban,Dallas,Mavericks,DAL,C,"7'4""",290 lbs,Crvena zvezda,Serbia,,,,1.0,4.5,4.0,0.2,2015,2020
+Markkanen,Lauri,Chicago,Bulls,CHI,F-C,"7'0""",240 lbs,Arizona,Finland,2017.0,1.0,7.0,1.0,19.4,5.9,0.9,2017,2020
+Marshall,Naji,New Orleans,Pelicans,NOP,F,"6'7""",220 lbs,Xavier,USA,,,,1.0,0.3,0.5,0.5,2020,2020
+Martin,Caleb,Charlotte,Hornets,CHA,F,"6'5""",205 lbs,Nevada-Reno,USA,,,,1.0,5.4,2.7,1.1,2019,2020
+Martin,Cody,Charlotte,Hornets,CHA,F,"6'5""",205 lbs,Nevada-Reno,USA,2019.0,2.0,36.0,1.0,3.4,2.4,1.1,2019,2020
+Martin,Kelan,Indiana,Pacers,IND,F,"6'5""",230 lbs,Butler,USA,,,,1.0,1.5,1.0,0.0,2019,2020
+Martin Jr.,Kenyon,Houston,Rockets,HOU,F,"6'6""",215 lbs,-,USA,2020.0,2.0,52.0,1.0,5.7,4.2,0.6,2020,2020
+Mason,Frank,Milwaukee,Bucks,MIL,G,"5'11""",190 lbs,Kansas,USA,2017.0,2.0,34.0,,6.3,3.0,3.0,2017,2020
+Mathews,Garrison,Washington,Wizards,WAS,G,"6'5""",215 lbs,Lipscomb,USA,,,,1.0,7.0,1.7,0.5,2019,2020
+Mathias,Dakota,,,,G,"6'4""",200 lbs,Purdue,USA,2018.0,,,,6.0,0.9,1.6,2020,2020
+Matthews,Wesley,Los Angeles,Lakers,LAL,G,"6'4""",220 lbs,Marquette,USA,,,,1.0,4.2,1.4,1.1,2009,2020
+Maxey,Tyrese,Philadelphia,76ers,PHI,G,"6'2""",200 lbs,Kentucky,USA,2020.0,1.0,21.0,1.0,7.7,1.8,1.7,2020,2020
+Mays,Skylar,Atlanta,Hawks,ATL,G,"6'4""",205 lbs,Louisiana State,USA,2020.0,2.0,50.0,1.0,3.6,0.7,1.1,2020,2020
+McCaw,Patrick,Toronto,Raptors,TOR,G,"6'7""",181 lbs,UNLV,USA,2016.0,2.0,38.0,1.0,0.0,0.3,1.3,2016,2020
+McCollum,CJ,Portland,Trail Blazers,POR,G,"6'3""",190 lbs,Lehigh,USA,2013.0,1.0,10.0,1.0,26.7,3.9,5.0,2013,2020
+McConnell,T.J.,Indiana,Pacers,IND,G,"6'1""",190 lbs,Arizona,USA,2015.0,,,1.0,6.6,3.7,6.4,2015,2020
+McDaniels,Jaden,Minnesota,Timberwolves,MIN,F,"6'9""",185 lbs,Washington,USA,2020.0,1.0,28.0,1.0,5.6,3.3,1.0,2020,2020
+McDaniels,Jalen,Charlotte,Hornets,CHA,F-C,"6'9""",205 lbs,San Diego State,USA,2019.0,2.0,52.0,1.0,4.3,2.6,0.5,2019,2020
+McDermott,Doug,Indiana,Pacers,IND,F,"6'7""",225 lbs,Creighton,USA,2014.0,1.0,11.0,1.0,13.4,4.0,1.4,2014,2020
+McDermott,Sean,Memphis,Grizzlies,MEM,F,"6'6""",195 lbs,Butler,USA,,,,1.0,3.9,1.5,0.5,2020,2020
+McGee,JaVale,Cleveland,Cavaliers,CLE,C-F,"7'0""",270 lbs,Nevada-Reno,USA,2008.0,1.0,18.0,1.0,7.5,5.0,1.0,2008,2020
+McGruder,Rodney,Detroit,Pistons,DET,G,"6'4""",205 lbs,Kansas State,USA,,,,1.0,5.1,1.4,1.0,2016,2020
+McKinnie,Alfonzo,Los Angeles,Lakers,LAL,F,"6'7""",215 lbs,Wisconsin-Green Bay,USA,,,,1.0,2.3,1.1,0.1,2017,2020
+McLaughlin,Jordan,Minnesota,Timberwolves,MIN,G,"5'11""",185 lbs,Southern California,USA,,,,1.0,5.4,2.3,4.7,2019,2020
+McLemore,Ben,Houston,Rockets,HOU,G,"6'3""",195 lbs,Kansas,USA,2013.0,1.0,7.0,1.0,6.5,2.3,0.9,2013,2020
+Melli,Nicolo,New Orleans,Pelicans,NOP,F,"6'9""",236 lbs,Fenerbahce,Italy,,,,1.0,2.1,2.6,1.0,2019,2020
+Melton,De'Anthony,Memphis,Grizzlies,MEM,G,"6'2""",200 lbs,Southern California,USA,2018.0,2.0,46.0,1.0,10.0,3.1,3.0,2018,2020
+Merrill,Sam,Milwaukee,Bucks,MIL,G,"6'4""",205 lbs,Utah State,USA,2020.0,2.0,60.0,1.0,1.7,1.0,0.8,2020,2020
+Metu,Chimezie,Sacramento,Kings,SAC,F-C,"6'9""",225 lbs,Southern California,USA,2018.0,2.0,49.0,1.0,3.4,2.1,0.5,2018,2020
+Middleton,Khris,Milwaukee,Bucks,MIL,F,"6'7""",222 lbs,Texas A&M,USA,2012.0,2.0,39.0,1.0,20.3,6.1,5.7,2012,2020
+Miller,Darius,Oklahoma City,Thunder,OKC,F,"6'6""",225 lbs,Kentucky,USA,2012.0,2.0,46.0,1.0,2.8,1.3,0.8,2012,2020
+Mills,Patty,San Antonio,Spurs,SAS,G,"6'1""",180 lbs,St.Mary's College of California,Australia,2009.0,2.0,55.0,1.0,13.3,1.9,2.6,2009,2020
+Millsap,Paul,Denver,Nuggets,DEN,F,"6'7""",257 lbs,Louisiana Tech,USA,2006.0,2.0,47.0,1.0,10.3,5.1,1.6,2006,2020
+Milton,Shake,Philadelphia,76ers,PHI,G-F,"6'5""",205 lbs,Southern Methodist,USA,2018.0,2.0,54.0,1.0,13.8,2.3,3.1,2018,2020
+Mitchell,Donovan,Utah,Jazz,UTA,G,"6'1""",215 lbs,Louisville,USA,2017.0,1.0,13.0,1.0,24.8,4.7,5.5,2017,2020
+Mokoka,Adam,Chicago,Bulls,CHI,G,"6'4""",190 lbs,Mega Basket,France,,,,1.0,1.6,0.6,0.6,2019,2020
+Monk,Malik,Charlotte,Hornets,CHA,G,"6'3""",200 lbs,Kentucky,USA,2017.0,1.0,11.0,1.0,13.4,2.8,1.8,2017,2020
+Moore,E'Twaun,Phoenix,Suns,PHX,G,"6'3""",191 lbs,Purdue,USA,2011.0,2.0,55.0,1.0,4.3,1.8,1.5,2011,2020
+Morant,Ja,Memphis,Grizzlies,MEM,G,"6'3""",174 lbs,Murray State,USA,2019.0,1.0,2.0,1.0,19.7,3.4,7.8,2019,2020
+Morgan,Juwan,Utah,Jazz,UTA,F,"6'7""",232 lbs,Indiana,USA,,,,1.0,1.1,0.9,0.3,2019,2020
+Morris,Markieff,Los Angeles,Lakers,LAL,F,"6'9""",245 lbs,Kansas,USA,2011.0,1.0,13.0,1.0,5.4,3.9,1.0,2011,2020
+Morris,Monte,Denver,Nuggets,DEN,G,"6'2""",183 lbs,Iowa State,USA,2017.0,2.0,51.0,1.0,10.4,2.2,3.4,2017,2020
+Morris Sr.,Marcus,LA,Clippers,LAC,F,"6'8""",218 lbs,Kansas,USA,2011.0,1.0,14.0,1.0,12.2,3.7,0.9,2011,2020
+Mulder,Mychal,Golden State,Warriors,GSW,G,"6'3""",184 lbs,Kentucky,Canada,,,,1.0,4.1,0.9,0.4,2019,2020
+Murray,Dejounte,San Antonio,Spurs,SAS,G,"6'4""",180 lbs,Washington,USA,2016.0,1.0,29.0,1.0,15.6,6.9,5.3,2016,2020
+Murray,Jamal,Denver,Nuggets,DEN,G,"6'3""",215 lbs,Kentucky,Canada,2016.0,1.0,7.0,1.0,20.9,4.1,4.6,2016,2020
+Muscala,Mike,Oklahoma City,Thunder,OKC,F-C,"6'10""",240 lbs,Bucknell,USA,2013.0,2.0,44.0,1.0,9.7,3.8,0.8,2013,2020
+Mykhailiuk,Svi,Detroit,Pistons,DET,G-F,"6'7""",205 lbs,Kansas,Ukraine,2018.0,2.0,47.0,1.0,6.9,2.1,1.6,2018,2020
+Nader,Abdel,Phoenix,Suns,PHX,F,"6'5""",225 lbs,Iowa State,Egypt,2016.0,2.0,58.0,1.0,6.7,2.5,0.8,2017,2020
+Nance Jr.,Larry,Cleveland,Cavaliers,CLE,F-C,"6'7""",245 lbs,Wyoming,USA,2015.0,1.0,27.0,1.0,9.4,6.7,3.1,2015,2020
+Nesmith,Aaron,Boston,Celtics,BOS,G-F,"6'5""",215 lbs,Vanderbilt,USA,2020.0,1.0,14.0,1.0,4.2,2.4,0.4,2020,2020
+Neto,Raul,Washington,Wizards,WAS,G,"6'1""",180 lbs,Murcia,Brazil,2013.0,2.0,47.0,1.0,7.9,2.3,2.3,2015,2020
+Niang,Georges,Utah,Jazz,UTA,F,"6'7""",230 lbs,Iowa State,USA,2016.0,2.0,50.0,1.0,5.4,2.2,0.7,2016,2020
+Nnaji,Zeke,Denver,Nuggets,DEN,F-C,"6'9""",240 lbs,Arizona,USA,2020.0,1.0,22.0,1.0,3.4,1.5,0.2,2020,2020
+Noel,Nerlens,New York,Knicks,NYK,C-F,"6'11""",220 lbs,Kentucky,USA,2013.0,1.0,6.0,1.0,4.8,6.0,0.6,2013,2020
+Nowell,Jaylen,Minnesota,Timberwolves,MIN,G,"6'4""",201 lbs,Washington,USA,2019.0,2.0,43.0,1.0,10.1,2.2,1.3,2019,2020
+Ntilikina,Frank,New York,Knicks,NYK,G,"6'4""",200 lbs,Strasbourg IG,France,2017.0,1.0,8.0,1.0,4.7,0.9,0.7,2017,2020
+Nunn,Kendrick,Miami,Heat,MIA,G,"6'2""",190 lbs,Oakland,USA,,,,1.0,14.0,3.3,2.8,2018,2020
+Nurkic,Jusuf,Portland,Trail Blazers,POR,C,"6'11""",290 lbs,Cedevita,Bosnia and Herzegovina,2014.0,1.0,16.0,1.0,9.8,7.7,2.8,2014,2020
+Nwaba,David,Houston,Rockets,HOU,G-F,"6'5""",219 lbs,Cal Poly-Obispo,USA,,,,1.0,9.4,3.8,1.0,2016,2020
+Nwora,Jordan,Milwaukee,Bucks,MIL,F,"6'8""",225 lbs,Louisville,USA,2020.0,2.0,45.0,1.0,5.1,1.5,0.0,2020,2020
+O'Neale,Royce,Utah,Jazz,UTA,F,"6'4""",226 lbs,Baylor,USA,,,,1.0,7.6,6.9,2.6,2017,2020
+Ojeleye,Semi,Boston,Celtics,BOS,F,"6'6""",240 lbs,Southern Methodist,USA,2017.0,2.0,37.0,1.0,5.5,2.9,0.8,2017,2020
+Okafor,Jahlil,Detroit,Pistons,DET,C-F,"6'10""",270 lbs,Duke,USA,2015.0,1.0,3.0,1.0,4.3,2.3,0.3,2015,2020
+Okeke,Chuma,Orlando,Magic,ORL,F,"6'6""",229 lbs,Auburn,USA,2019.0,1.0,16.0,1.0,4.7,3.5,2.0,2020,2020
+Okogie,Josh,Minnesota,Timberwolves,MIN,G,"6'4""",213 lbs,Georgia Tech,Nigeria,2018.0,1.0,20.0,1.0,4.8,2.5,1.2,2018,2020
+Okongwu,Onyeka,Atlanta,Hawks,ATL,F-C,"6'8""",235 lbs,Southern California,USA,2020.0,1.0,6.0,1.0,3.2,2.6,0.3,2020,2020
+Okoro,Isaac,Cleveland,Cavaliers,CLE,F-G,"6'5""",225 lbs,Auburn,USA,2020.0,1.0,5.0,1.0,7.9,2.6,1.8,2020,2020
+Okpala,KZ,Miami,Heat,MIA,F-G,"6'8""",215 lbs,Stanford,USA,2019.0,2.0,32.0,1.0,2.2,1.8,0.4,2019,2020
+Oladipo,Victor,Houston,Rockets,HOU,G,"6'4""",213 lbs,Indiana,USA,2013.0,1.0,2.0,1.0,20.1,5.2,4.7,2013,2020
+Olynyk,Kelly,Miami,Heat,MIA,F-C,"6'11""",240 lbs,Gonzaga,Canada,2013.0,1.0,13.0,1.0,10.3,6.0,2.2,2013,2020
+Oni,Miye,Utah,Jazz,UTA,G-F,"6'5""",206 lbs,Yale,USA,2019.0,2.0,58.0,1.0,1.7,1.7,0.2,2019,2020
+Osman,Cedi,Cleveland,Cavaliers,CLE,F,"6'7""",230 lbs,Anadolu Efes,Turkey,2015.0,2.0,31.0,1.0,10.8,3.6,2.6,2017,2020
+Oturu,Daniel,LA,Clippers,LAC,C,"6'8""",240 lbs,Minnesota,USA,2020.0,2.0,33.0,1.0,2.0,1.4,0.4,2020,2020
+Oubre Jr.,Kelly,Golden State,Warriors,GSW,F-G,"6'7""",203 lbs,Kansas,USA,2015.0,1.0,15.0,1.0,15.4,5.9,1.4,2015,2020
+Parker,Jabari,Sacramento,Kings,SAC,F,"6'8""",245 lbs,Duke,USA,2014.0,1.0,2.0,1.0,4.0,3.0,0.5,2014,2020
+Paschall,Eric,Golden State,Warriors,GSW,F,"6'6""",255 lbs,Villanova,USA,2019.0,2.0,41.0,1.0,9.7,3.2,1.3,2019,2020
+Pasecniks,Anzejs,Washington,Wizards,WAS,C-F,"7'2""",229 lbs, ,Latvia,2017.0,1.0,25.0,,0.0,1.0,1.0,2019,2020
+Patterson,Patrick,LA,Clippers,LAC,F,"6'8""",235 lbs,Kentucky,USA,2010.0,1.0,14.0,1.0,4.5,2.2,0.5,2010,2020
+Patton,Justin,Houston,Rockets,HOU,C,"6'11""",241 lbs,Creighton,USA,2017.0,1.0,16.0,1.0,6.8,4.4,0.9,2017,2020
+Paul,Chris,Phoenix,Suns,PHX,G,"6'0""",175 lbs,Wake Forest,USA,2005.0,1.0,4.0,1.0,15.8,4.7,8.8,2005,2020
+Payne,Cameron,Phoenix,Suns,PHX,G,"6'1""",183 lbs,Murray State,USA,2015.0,1.0,14.0,1.0,7.0,1.9,3.6,2015,2020
+Payton,Elfrid,New York,Knicks,NYK,G,"6'3""",195 lbs,Louisana-Lafayette,USA,2014.0,1.0,10.0,1.0,12.6,3.8,3.7,2014,2020
+Pelle,Norvel,Philadelphia,76ers,PHI,F,"6'10""",231 lbs,Iona,USA,,,,,2.3,2.0,0.3,2019,2020
+Perry,Reggie,Brooklyn,Nets,BKN,F-C,"6'8""",250 lbs,Mississippi State,USA,2020.0,2.0,57.0,1.0,3.6,3.6,0.9,2020,2020
+Pinson,Theo,New York,Knicks,NYK,G-F,"6'5""",212 lbs,North Carolina,USA,,,,1.0,0.2,0.2,0.1,2018,2020
+Plumlee,Mason,Detroit,Pistons,DET,F-C,"6'11""",254 lbs,Duke,USA,2013.0,1.0,22.0,1.0,10.4,9.1,3.9,2013,2020
+Poeltl,Jakob,San Antonio,Spurs,SAS,C,"7'1""",245 lbs,Utah,Austria,2016.0,1.0,9.0,1.0,6.5,7.3,1.9,2016,2020
+Poirier,Vincent,Philadelphia,76ers,PHI,C-F,"7'0""",235 lbs,Baskonia,France,,,,1.0,0.8,0.9,0.3,2019,2020
+Pokusevski,Aleksej,Oklahoma City,Thunder,OKC,C,"7'0""",190 lbs,Olympiacos,Serbia,2020.0,1.0,17.0,1.0,3.9,3.9,1.4,2020,2020
+Poole,Jordan,Golden State,Warriors,GSW,G,"6'4""",194 lbs,Michigan,USA,2019.0,1.0,28.0,1.0,7.2,1.4,1.1,2019,2020
+Porter Jr.,Kevin,Houston,Rockets,HOU,G-F,"6'4""",203 lbs,Southern California,USA,2019.0,1.0,30.0,1.0,20.0,4.0,9.0,2019,2020
+Porter Jr.,Michael,Denver,Nuggets,DEN,F,"6'10""",218 lbs,Missouri,USA,2018.0,1.0,14.0,1.0,15.1,7.1,0.8,2018,2020
+Porter Jr.,Otto,Chicago,Bulls,CHI,F,"6'8""",198 lbs,Georgetown,USA,2013.0,1.0,3.0,1.0,10.5,5.9,1.9,2013,2020
+Portis,Bobby,Milwaukee,Bucks,MIL,F,"6'10""",250 lbs,Arkansas,USA,2015.0,1.0,22.0,1.0,10.9,7.0,1.1,2015,2020
+Porzingis,Kristaps,Dallas,Mavericks,DAL,F-C,"7'3""",240 lbs,Cajasol Sevilla,Latvia,2015.0,1.0,4.0,1.0,20.7,8.5,1.3,2015,2020
+Powell,Dwight,Dallas,Mavericks,DAL,F-C,"6'10""",240 lbs,Stanford,Canada,2014.0,2.0,45.0,1.0,4.5,3.5,0.8,2014,2020
+Powell,Norman,Toronto,Raptors,TOR,G,"6'3""",215 lbs,UCLA,USA,2015.0,2.0,46.0,1.0,18.7,3.0,1.8,2015,2020
+Prince,Taurean,Cleveland,Cavaliers,CLE,F,"6'7""",218 lbs,Baylor,USA,2016.0,1.0,12.0,1.0,8.3,3.6,1.7,2016,2020
+Pritchard,Payton,Boston,Celtics,BOS,G,"6'1""",195 lbs,Oregon,USA,2020.0,1.0,26.0,1.0,7.5,2.3,2.3,2020,2020
+Quickley,Immanuel,New York,Knicks,NYK,G,"6'3""",190 lbs,Kentucky,USA,2020.0,1.0,25.0,1.0,12.5,2.3,2.4,2020,2020
+Ramsey,Jahmi'us,Sacramento,Kings,SAC,G,"6'3""",190 lbs,Texas Tech,USA,2020.0,2.0,43.0,1.0,1.4,0.8,0.2,2020,2020
+Randle,Chasson,Orlando,Magic,ORL,G,"6'2""",185 lbs,Stanford,USA,2015.0,,,1.0,5.6,2.0,3.1,2016,2020
+Randle,Julius,New York,Knicks,NYK,F-C,"6'8""",250 lbs,Kentucky,USA,2014.0,1.0,7.0,1.0,22.9,11.0,5.7,2014,2020
+Reddish,Cam,Atlanta,Hawks,ATL,F-G,"6'8""",218 lbs,Duke,USA,2019.0,1.0,10.0,1.0,11.2,4.0,1.3,2019,2020
+Redick,JJ,New Orleans,Pelicans,NOP,G,"6'3""",200 lbs,Duke,USA,2006.0,1.0,11.0,1.0,8.7,1.7,1.3,2006,2020
+Reed,Paul,Philadelphia,76ers,PHI,F,"6'9""",210 lbs,DePaul,USA,2020.0,2.0,58.0,1.0,3.6,2.0,0.6,2020,2020
+Reid,Naz,Minnesota,Timberwolves,MIN,C-F,"6'9""",264 lbs,Louisiana State,USA,,,,1.0,11.9,4.7,1.3,2019,2020
+Richards,Nick,Charlotte,Hornets,CHA,C,"7'0""",245 lbs,Kentucky,Jamaica,2020.0,2.0,42.0,1.0,1.3,0.8,0.0,2020,2020
+Richardson,Josh,Dallas,Mavericks,DAL,G,"6'5""",200 lbs,Tennessee,USA,2015.0,2.0,40.0,1.0,13.6,3.2,2.8,2015,2020
+Rivers,Austin,New York,Knicks,NYK,G,"6'4""",200 lbs,Duke,USA,2012.0,1.0,10.0,1.0,7.3,2.2,2.0,2012,2020
+Roberson,Andre,Oklahoma City,Thunder,OKC,G-F,"6'7""",210 lbs,Colorado,USA,2013.0,1.0,26.0,,1.2,3.0,0.8,2013,2020
+Robinson,Duncan,Miami,Heat,MIA,F,"6'7""",215 lbs,Michigan,USA,,,,1.0,12.8,3.9,1.6,2018,2020
+Robinson,Jerome,Washington,Wizards,WAS,G,"6'4""",190 lbs,Boston College,USA,2018.0,1.0,13.0,1.0,5.2,2.5,1.4,2018,2020
+Robinson,Mitchell,New York,Knicks,NYK,C-F,"7'0""",240 lbs,Western Kentucky,USA,2018.0,2.0,36.0,1.0,8.4,8.4,0.5,2018,2020
+Robinson III,Glenn,Philadelphia,76ers,PHI,F,"6'6""",222 lbs,Michigan,USA,2014.0,2.0,40.0,,5.3,2.0,0.9,2014,2020
+Roby,Isaiah,Oklahoma City,Thunder,OKC,F,"6'8""",230 lbs,Nebraska-Lincoln,USA,2019.0,2.0,45.0,1.0,8.7,5.3,1.8,2019,2020
+Rondo,Rajon,Atlanta,Hawks,ATL,G,"6'1""",180 lbs,Kentucky,USA,2006.0,1.0,21.0,1.0,4.0,2.2,3.4,2006,2020
+Rose,Derrick,New York,Knicks,NYK,G,"6'2""",200 lbs,Memphis,USA,2008.0,1.0,1.0,1.0,13.5,2.2,4.5,2008,2020
+Ross,Terrence,Orlando,Magic,ORL,G-F,"6'6""",206 lbs,Washington,USA,2012.0,1.0,8.0,1.0,15.5,3.5,2.2,2012,2020
+Rozier,Terry,Charlotte,Hornets,CHA,G,"6'1""",190 lbs,Louisville,USA,2015.0,1.0,16.0,1.0,20.3,3.7,3.2,2015,2020
+Rubio,Ricky,Minnesota,Timberwolves,MIN,G,"6'3""",190 lbs,FC Barcelona,Spain,2009.0,1.0,5.0,1.0,8.0,3.1,6.5,2011,2020
+Russell,D'Angelo,Minnesota,Timberwolves,MIN,G,"6'4""",193 lbs,Ohio State,USA,2015.0,1.0,2.0,1.0,19.3,2.6,5.1,2015,2020
+Sabonis,Domantas,Indiana,Pacers,IND,F-C,"6'11""",240 lbs,Gonzaga,Lithuania,2016.0,1.0,11.0,1.0,20.8,11.2,6.2,2016,2020
+Samanic,Luka,San Antonio,Spurs,SAS,F,"6'10""",227 lbs,Union Olimpija,Croatia,2019.0,1.0,19.0,1.0,3.8,2.7,0.2,2019,2020
+Sampson,JaKarr,Indiana,Pacers,IND,F,"6'7""",214 lbs,St. John's,USA,,,,1.0,2.6,1.9,0.1,2014,2020
+Saric,Dario,Phoenix,Suns,PHX,F-C,"6'10""",225 lbs,Anadolu Efes,Croatia,2014.0,1.0,12.0,1.0,11.7,4.1,1.3,2016,2020
+Satoransky,Tomas,Chicago,Bulls,CHI,G,"6'7""",210 lbs,FC Barcelona,Czech Republic,2012.0,2.0,32.0,1.0,7.0,2.5,4.4,2016,2020
+Schroder,Dennis,Los Angeles,Lakers,LAL,G,"6'3""",172 lbs,Braunschweig,Germany,2013.0,1.0,17.0,1.0,14.8,3.5,4.5,2013,2020
+Scott,Mike,Philadelphia,76ers,PHI,F,"6'7""",237 lbs,Virginia,USA,2012.0,2.0,43.0,1.0,4.4,2.7,0.4,2012,2020
+Sexton,Collin,Cleveland,Cavaliers,CLE,G,"6'1""",190 lbs,Alabama,USA,2018.0,1.0,8.0,1.0,23.9,2.6,4.3,2018,2020
+Shamet,Landry,Brooklyn,Nets,BKN,G,"6'4""",190 lbs,Wichita State,USA,2018.0,1.0,26.0,1.0,8.3,1.9,1.1,2018,2020
+Shumpert,Iman,Houston,Rockets,HOU,G,"6'5""",215 lbs,Georgia Tech,USA,2011.0,1.0,17.0,,1.0,0.5,0.0,2011,2020
+Siakam,Pascal,Toronto,Raptors,TOR,F,"6'9""",230 lbs,New Mexico State,Cameroon,2016.0,1.0,27.0,1.0,20.1,7.5,4.8,2016,2020
+Silva,Chris,Miami,Heat,MIA,F,"6'8""",234 lbs,South Carolina,Gabon,,,,1.0,3.5,3.1,0.8,2019,2020
+Simmons,Ben,Philadelphia,76ers,PHI,G-F,"6'11""",240 lbs,Louisiana State,Australia,2016.0,1.0,1.0,1.0,16.1,7.9,7.6,2016,2020
+Simons,Anfernee,Portland,Trail Blazers,POR,G,"6'3""",181 lbs,Edgewater HS (FL),USA,2018.0,1.0,24.0,1.0,8.2,2.4,1.4,2018,2020
+Sirvydis,Deividas,Detroit,Pistons,DET,F-G,"6'8""",190 lbs,-,Lithuania,2019.0,2.0,37.0,1.0,0.2,0.2,0.2,2020,2020
+Smart,Marcus,Boston,Celtics,BOS,G,"6'3""",220 lbs,Oklahoma State,USA,2014.0,1.0,6.0,1.0,13.4,2.7,5.8,2014,2020
+Smith,Ish,Washington,Wizards,WAS,G,"6'0""",175 lbs,Wake Forest,USA,,,,1.0,5.2,3.5,4.7,2010,2020
+Smith,Jalen,Phoenix,Suns,PHX,F-C,"6'10""",215 lbs,Maryland,USA,2020.0,1.0,10.0,1.0,1.5,1.0,0.2,2020,2020
+Smith Jr.,Dennis,Detroit,Pistons,DET,G,"6'2""",205 lbs,North Carolina State,USA,2017.0,1.0,9.0,1.0,7.2,2.7,3.2,2017,2020
+Snell,Tony,Atlanta,Hawks,ATL,G,"6'6""",213 lbs,New Mexico,USA,2013.0,1.0,20.0,1.0,5.2,2.2,1.2,2013,2020
+Spalding,Ray,Charlotte,Hornets,CHA,F,"6'9""",225 lbs,Louisville,USA,2018.0,2.0,56.0,,2.0,2.0,0.0,2018,2020
+Stanley,Cassius,Indiana,Pacers,IND,G,"6'5""",190 lbs,Duke,USA,2020.0,2.0,54.0,1.0,1.1,0.4,0.0,2020,2020
+Stevens,Lamar,Cleveland,Cavaliers,CLE,F,"6'6""",230 lbs,Penn State,USA,,,,1.0,4.1,2.5,0.9,2020,2020
+Stewart,Isaiah,Detroit,Pistons,DET,F-C,"6'8""",250 lbs,Washington,USA,2020.0,1.0,16.0,1.0,5.6,5.9,0.7,2020,2020
+Strus,Max,Miami,Heat,MIA,G-F,"6'5""",215 lbs,DePaul,USA,,,,1.0,7.1,1.1,0.5,2019,2020
+Sumner,Edmond,Indiana,Pacers,IND,G,"6'4""",196 lbs,Xavier,USA,2017.0,2.0,52.0,1.0,5.0,1.4,0.4,2017,2020
+Tate,Jae'Sean,Houston,Rockets,HOU,F,"6'4""",230 lbs,Ohio State,USA,,,,1.0,9.9,5.3,1.6,2020,2020
+Tatum,Jayson,Boston,Celtics,BOS,F-G,"6'8""",210 lbs,Duke,USA,2017.0,1.0,3.0,1.0,25.1,7.0,4.4,2017,2020
+Teague,Jeff,Boston,Celtics,BOS,G,"6'3""",195 lbs,Wake Forest,USA,2009.0,1.0,19.0,1.0,6.4,1.6,2.1,2009,2020
+Temple,Garrett,Chicago,Bulls,CHI,G-F,"6'5""",195 lbs,Louisiana State,USA,,,,1.0,8.5,3.1,2.0,2009,2020
+Terry,Tyrell,Dallas,Mavericks,DAL,G,"6'2""",160 lbs,Stanford,USA,2020.0,2.0,31.0,1.0,1.0,0.5,0.5,2020,2020
+Theis,Daniel,Boston,Celtics,BOS,F-C,"6'8""",245 lbs,Brose Bamberg,Germany,,,,1.0,9.5,5.1,1.3,2017,2020
+Thomas,Brodric,Cleveland,Cavaliers,CLE,G,"6'5""",185 lbs,Truman State,USA,,,,1.0,2.6,1.0,0.8,2020,2020
+Thomas,Matt,Toronto,Raptors,TOR,G,"6'4""",190 lbs,Iowa State,USA,,,,1.0,2.6,0.8,0.4,2019,2020
+Thompson,Tristan,Boston,Celtics,BOS,C-F,"6'9""",254 lbs,Texas,Canada,2011.0,1.0,4.0,1.0,7.9,8.3,1.0,2011,2020
+Thornwell,Sindarius,New Orleans,Pelicans,NOP,G,"6'4""",215 lbs,South Carolina,USA,2017.0,2.0,48.0,1.0,1.3,0.4,0.3,2017,2020
+Thybulle,Matisse,Philadelphia,76ers,PHI,G-F,"6'5""",201 lbs,Washington,USA,2019.0,1.0,20.0,1.0,3.5,1.6,1.0,2019,2020
+Tillie,Killian,Memphis,Grizzlies,MEM,F-C,"6'9""",220 lbs,Gonzaga,France,,,,1.0,1.5,1.0,0.0,2020,2020
+Tillman,Xavier,Memphis,Grizzlies,MEM,F,"6'8""",245 lbs,Michigan State,USA,2020.0,2.0,35.0,1.0,6.7,4.5,1.6,2020,2020
+Toppin,Obi,New York,Knicks,NYK,F,"6'9""",220 lbs,Dayton,USA,2020.0,1.0,8.0,1.0,4.9,2.6,0.6,2020,2020
+Toscano-Anderson,Juan,Golden State,Warriors,GSW,F,"6'6""",209 lbs,Marquette,USA,,,,1.0,5.6,4.4,2.3,2019,2020
+Towns,Karl-Anthony,Minnesota,Timberwolves,MIN,C-F,"6'11""",248 lbs,Kentucky,USA,2015.0,1.0,1.0,1.0,22.3,10.7,3.8,2015,2020
+Trent Jr.,Gary,Portland,Trail Blazers,POR,G-F,"6'5""",209 lbs,Duke,USA,2018.0,2.0,37.0,1.0,15.2,2.1,1.5,2018,2020
+Tucker,P.J.,Houston,Rockets,HOU,F,"6'5""",245 lbs,Texas,USA,2006.0,2.0,35.0,1.0,4.4,4.6,1.4,2006,2020
+Turner,Myles,Indiana,Pacers,IND,C-F,"6'11""",250 lbs,Texas,USA,2015.0,1.0,11.0,1.0,13.4,6.5,1.0,2015,2020
+Valanciunas,Jonas,Memphis,Grizzlies,MEM,C,"6'11""",265 lbs,Lietuvos rytas Vilnius,Lithuania,2011.0,1.0,5.0,1.0,16.0,11.6,1.8,2012,2020
+Valentine,Denzel,Chicago,Bulls,CHI,G,"6'4""",220 lbs,Michigan State,USA,2016.0,1.0,14.0,1.0,7.8,4.1,1.8,2016,2020
+VanVleet,Fred,Toronto,Raptors,TOR,G,"6'1""",197 lbs,Wichita State,USA,,,,1.0,20.1,4.4,6.6,2016,2020
+Vanderbilt,Jarred,Minnesota,Timberwolves,MIN,F,"6'9""",214 lbs,Kentucky,USA,2018.0,2.0,41.0,1.0,5.9,5.8,1.6,2018,2020
+Vassell,Devin,San Antonio,Spurs,SAS,G-F,"6'5""",200 lbs,Florida State,USA,2020.0,1.0,11.0,1.0,5.6,3.2,1.1,2020,2020
+Vincent,Gabe,Miami,Heat,MIA,G,"6'3""",200 lbs,California-Santa Barbara,USA,,,,1.0,5.8,1.1,1.2,2019,2020
+Vonleh,Noah,Denver,Nuggets,DEN,F,"6'10""",257 lbs,Indiana,USA,2014.0,1.0,9.0,,0.0,0.3,0.3,2014,2020
+Vucevic,Nikola,Orlando,Magic,ORL,C,"6'11""",260 lbs,Southern California,Montenegro,2011.0,1.0,16.0,1.0,24.6,11.7,3.7,2011,2020
+Wade,Dean,Cleveland,Cavaliers,CLE,F-C,"6'9""",228 lbs,Kansas State,USA,,,,1.0,3.3,2.1,0.7,2019,2020
+Wagner,Moritz,Washington,Wizards,WAS,F-C,"6'11""",245 lbs,Michigan,Germany,2018.0,1.0,25.0,1.0,7.0,3.0,1.2,2018,2020
+Walker,Kemba,Boston,Celtics,BOS,G,"6'0""",184 lbs,Connecticut,USA,2011.0,1.0,9.0,1.0,18.1,3.6,4.4,2011,2020
+Walker IV,Lonnie,San Antonio,Spurs,SAS,G-F,"6'4""",204 lbs,Miami,USA,2018.0,1.0,18.0,1.0,11.1,2.9,1.7,2018,2020
+Wall,John,Houston,Rockets,HOU,G,"6'3""",210 lbs,Kentucky,USA,2010.0,1.0,1.0,1.0,21.0,3.2,6.0,2010,2020
+Wanamaker,Brad,Golden State,Warriors,GSW,G,"6'3""",210 lbs,Pittsburgh,USA,,,,1.0,4.8,1.7,2.7,2018,2020
+Warren,T.J.,Indiana,Pacers,IND,F,"6'8""",220 lbs,North Carolina State,USA,2014.0,1.0,14.0,1.0,15.5,3.5,1.3,2014,2020
+Washington,P.J.,Charlotte,Hornets,CHA,F,"6'7""",230 lbs,Kentucky,USA,2019.0,1.0,12.0,1.0,12.6,6.4,2.9,2019,2020
+Watanabe,Yuta,Toronto,Raptors,TOR,G-F,"6'9""",215 lbs,George Washington,Japan,,,,1.0,2.7,3.1,0.4,2018,2020
+Waters,Tremont,Boston,Celtics,BOS,G,"5'10""",175 lbs,Louisiana State,USA,2019.0,2.0,51.0,1.0,3.3,0.8,3.0,2019,2020
+Watson,Paul,Toronto,Raptors,TOR,G,"6'6""",210 lbs,Fresno State,USA,,,,1.0,2.4,1.1,0.3,2019,2020
+Weatherspoon,Quinndary,San Antonio,Spurs,SAS,G,"6'3""",205 lbs,Mississippi State,USA,2019.0,2.0,49.0,1.0,0.8,0.4,0.6,2019,2020
+Westbrook,Russell,Washington,Wizards,WAS,G,"6'3""",200 lbs,UCLA,USA,2008.0,1.0,4.0,1.0,21.1,9.4,9.8,2008,2020
+White,Coby,Chicago,Bulls,CHI,G,"6'5""",195 lbs,North Carolina,USA,2019.0,1.0,7.0,1.0,16.1,4.9,5.0,2019,2020
+White,Derrick,San Antonio,Spurs,SAS,G,"6'4""",190 lbs,Colorado,USA,2017.0,1.0,29.0,1.0,11.7,1.5,3.4,2017,2020
+Whiteside,Hassan,Sacramento,Kings,SAC,C,"7'0""",265 lbs,Marshall,USA,2010.0,2.0,33.0,1.0,8.3,5.7,0.5,2010,2020
+Whittington,Greg,Denver,Nuggets,DEN,F,"6'8""",210 lbs,Georgetown,USA,,,,1.0,0.0,0.0,0.0,2020,2020
+Wiggins,Andrew,Golden State,Warriors,GSW,F,"6'7""",197 lbs,Kansas,Canada,2014.0,1.0,1.0,1.0,16.9,4.6,2.2,2014,2020
+Williams,Grant,Boston,Celtics,BOS,F,"6'6""",236 lbs,Tennessee,USA,2019.0,1.0,22.0,1.0,5.1,3.0,0.9,2019,2020
+Williams,Kenrich,Oklahoma City,Thunder,OKC,G-F,"6'6""",210 lbs,TCU,USA,,,,1.0,6.3,3.9,1.7,2018,2020
+Williams,Lou,LA,Clippers,LAC,G,"6'1""",175 lbs,South Gwinnett HS (GA),USA,2005.0,2.0,45.0,1.0,12.6,2.3,3.7,2005,2020
+Williams,Patrick,Chicago,Bulls,CHI,F,"6'7""",215 lbs,Florida State,USA,2020.0,1.0,4.0,1.0,9.8,4.6,1.2,2020,2020
+Williams III,Robert,Boston,Celtics,BOS,C-F,"6'8""",237 lbs,Texas A&M,USA,2018.0,1.0,27.0,1.0,6.8,5.8,1.2,2018,2020
+Williamson,Zion,New Orleans,Pelicans,NOP,F,"6'7""",284 lbs,Duke,USA,2019.0,1.0,1.0,1.0,25.5,7.1,3.3,2019,2020
+Wilson,D.J.,Milwaukee,Bucks,MIL,F,"6'10""",231 lbs,Michigan,USA,2017.0,1.0,17.0,1.0,3.6,2.1,0.3,2017,2020
+Windler,Dylan,Cleveland,Cavaliers,CLE,G-F,"6'6""",196 lbs,Belmont,USA,2019.0,1.0,26.0,1.0,6.3,4.1,1.2,2019,2020
+Winslow,Justise,Memphis,Grizzlies,MEM,F-G,"6'6""",222 lbs,Duke,USA,2015.0,1.0,10.0,1.0,9.0,5.6,2.3,2015,2020
+Winston,Cassius,Washington,Wizards,WAS,G,"6'1""",185 lbs,Michigan State,USA,2020.0,2.0,53.0,1.0,2.3,0.7,1.0,2020,2020
+Wiseman,James,Golden State,Warriors,GSW,C,"7'0""",240 lbs,Memphis,USA,2020.0,1.0,2.0,1.0,11.9,6.0,0.6,2020,2020
+Wood,Christian,Houston,Rockets,HOU,F,"6'10""",214 lbs,UNLV,USA,,,,1.0,22.0,10.2,1.3,2015,2020
+Woodard II,Robert,Sacramento,Kings,SAC,F,"6'6""",235 lbs,Mississippi State,USA,2020.0,2.0,40.0,1.0,2.2,1.3,0.0,2020,2020
+Wright,Delon,Detroit,Pistons,DET,G,"6'5""",185 lbs,Utah,USA,2015.0,1.0,20.0,1.0,10.6,4.5,4.8,2015,2020
+Young,Thaddeus,Chicago,Bulls,CHI,F,"6'8""",235 lbs,Georgia Tech,USA,2007.0,1.0,12.0,1.0,12.2,6.1,4.3,2007,2020
+Young,Trae,Atlanta,Hawks,ATL,G,"6'1""",180 lbs,Oklahoma,USA,2018.0,1.0,5.0,1.0,26.7,4.1,9.3,2018,2020
+Zeller,Cody,Charlotte,Hornets,CHA,F-C,"6'11""",240 lbs,Indiana,USA,2013.0,1.0,4.0,1.0,10.0,7.5,2.3,2013,2020
+Zubac,Ivica,LA,Clippers,LAC,C,"7'0""",240 lbs,Mega Basket,Croatia,2016.0,2.0,32.0,1.0,8.2,6.9,1.1,2016,2020
